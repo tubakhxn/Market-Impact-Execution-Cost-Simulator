@@ -4,6 +4,7 @@
 ## Developer / Creator: tubakhxn
 
 A production-ready Streamlit app to model institutional trade execution and visualize market impact in 3D.
+<img width="2992" height="1609" alt="Market" src="https://github.com/user-attachments/assets/de21afe3-0da6-4d7d-8471-1dace171a2f0" />
 
 ## Features
 - Square-root, temporary, and permanent market impact models
@@ -39,3 +40,4 @@ Institutional trading impacts market prices. The **square-root impact model** (A
 - `execution_simulator.py`: Execution and price simulation
 - `visualization.py`: 3D/animated/heatmap visualizations
 - `metrics.py`: Cost and risk metrics
+
